@@ -1,0 +1,95 @@
+#body{
+    background-color: rgb(247, 253, 247);
+    margin-left: 20px;
+    
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-family: monospace;
+    color: rosybrown;
+}
+body{
+    background-color: rgb(240, 255, 240);
+    padding-top: 70px;
+}
+#links{
+    
+    background-color: rgb(255, 227, 68);
+}
+#oli{
+width: 300px;
+height: 300px;
+}
+#pinturas{
+    text-align: right;
+}
+#none{
+    margin: 0;
+}
+table{
+ margin-right: 15%;
+ margin-left: 15%;
+
+}
+#arriba{
+    margin-left: initial;
+
+}
+a{
+    text-decoration:none;
+    color: rgb(95, 108, 121);
+}
+#ind{
+    text-align: center;
+    color: lightslategray;
+}
+#id_frase{
+    text-align: center;
+    color: goldenrod;
+    border: rgb(255, 227, 68) 2px groove;
+    font-family: monospace;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+#main-header {
+	background-color: teal;
+	color: white ;
+	height: 60px;
+	width: 100%; 
+	left: 0;
+	top: 0; 
+	position: fixed; 
+}
+	#main-header a {
+        color: white;
+    }
+    #logo-header {
+        float: left;
+        padding: 25px 0 0 20px;
+        text-decoration: none;
+        }
+        #logo-header:hover {
+        color: darksalmon;
+        }           
+        #logo-header .site-name {
+        display: block;
+        font-weight: 700;
+        font-size: 2em;
+        }       
+nav {
+    float: right;
+    padding-right: 20px;
+    line-height: 60px;
+}
+nav  a {
+    display: block;
+    text-decoration: none;
+}                   
+nav  a:hover {
+    background: darksalmon;
+}
